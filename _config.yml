@@ -9,7 +9,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 https://jithinqw.github.io/
 paginate:            1
-baseurl:             "https://jithinqw.github.io/jithinqw.github.io/"
+baseurl:             https://jithinqw.github.io/jithinqw.github.io/
 
 # Assets
 #
